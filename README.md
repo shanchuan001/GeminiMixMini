@@ -62,6 +62,12 @@ curl -X POST http://localhost:5000/v1/chat/completions \
   - n (可选): 控制生成文本的几个备选响应, 默认为一个。
   - stop (可选): 指定停止生成的字符串序列。
 
+### 3. 在[Cherry Studio](https://github.com/CherryHQ/cherry-studio)中使用
+
+ - 在`设置`-`模型服务`中添加**供应商类型**为`openai`的服务
+ - 填入**你设置的**密钥(默认`123`)与地址(例如`http://localhost:5000`)
+ - 在管理中添加模型`GeminiMIXR1`(或者其他自定义名称)
+
 ## 依赖
 ```bash
 flask~=2.0
