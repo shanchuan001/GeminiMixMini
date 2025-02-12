@@ -30,7 +30,7 @@
 5. **启动服务：**
 
     ```bash
-    python app.py
+    python GeminiMIXR1-Lite.py
     ```
 
     服务默认运行在 `http://localhost:5000`。
