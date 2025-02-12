@@ -6,7 +6,7 @@
 
 #与完整版[GeminiMixSuper](https://github.com/lioensky/GeminiMixSuper)的差别
 
-+ +对Gemini API无高并发需求，无动态负载需求，仅需`中转`即可。
++ +对Gemini API无高并发需求，无动态负载需求，仅需**中转**即可。
 
 - -无多模态支持，无智能搜索功能。
 
