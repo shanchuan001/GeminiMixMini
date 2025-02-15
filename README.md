@@ -1,4 +1,4 @@
-# GeminiMixLite
+# GeminiMixMini
 
 本项目是[GeminiMixSuper](https://github.com/lioensky/GeminiMixSuper)的**简易版**
 
